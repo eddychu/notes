@@ -9,3 +9,7 @@ a place to bookmark some links i find interesting.
 ## React
 
 [Use React.memo() wisely](https://dmitripavlutin.com/use-react-memo-wisely/)
+
+
+## Simulation
+1. [Nature of Code](natureofcode.com)
