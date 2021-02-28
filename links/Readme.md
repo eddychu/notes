@@ -13,3 +13,7 @@ a place to bookmark some links i find interesting.
 
 ## Simulation
 1. [Nature of Code](natureofcode.com)
+
+
+## Visualization
+[CS558](https://courses.cs.washington.edu/courses/cse558/05wi/schedule.html)
